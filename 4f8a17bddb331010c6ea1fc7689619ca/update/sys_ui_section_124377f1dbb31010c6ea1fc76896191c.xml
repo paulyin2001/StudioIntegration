@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="124377f1dbb31010c6ea1fc76896191c" sys_domain="global" table="cmdb_ci_service" version="3" view="Test_new_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>1a4377f1dbb31010c6ea1fc768961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>9a4377f1dbb31010c6ea1fc768961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owned_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>1e4377f1dbb31010c6ea1fc768961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>busines_criticality</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>9e4377f1dbb31010c6ea1fc768961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>version</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>124377f1dbb31010c6ea1fc768961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>used_for</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>924377f1dbb31010c6ea1fc768961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>operational_status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>164377f1dbb31010c6ea1fc768961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_classification</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>964377f1dbb31010c6ea1fc768961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>1a4377f1dbb31010c6ea1fc768961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change_control</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>9a4377f1dbb31010c6ea1fc768961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_group</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>1e4377f1dbb31010c6ea1fc768961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>9e4377f1dbb31010c6ea1fc768961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>managed_by</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>124377f1dbb31010c6ea1fc768961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sla</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>924377f1dbb31010c6ea1fc768961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>164377f1dbb31010c6ea1fc768961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checked_in</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>964377f1dbb31010c6ea1fc768961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checked_out</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>1a4377f1dbb31010c6ea1fc768961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>9a4377f1dbb31010c6ea1fc768961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>1e4377f1dbb31010c6ea1fc768961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ui_ng_relation_formatter.xml</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:22</sys_created_on>
+            <sys_id>9e4377f1dbb31010c6ea1fc768961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="CI Relations">b62309137f32310009fedf92bdfa912b</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">124377f1dbb31010c6ea1fc76896191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:22</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>cmdb_ci_service</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 21:17:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>124377f1dbb31010c6ea1fc76896191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_service</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CMDB custom" source="4f8a17bddb331010c6ea1fc7689619ca">4f8a17bddb331010c6ea1fc7689619ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMDB custom">4f8a17bddb331010c6ea1fc7689619ca</sys_scope>
+            <sys_update_name>sys_ui_section_124377f1dbb31010c6ea1fc76896191c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 21:17:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Test new view" name="Test_new_view">464377f1dbb31010c6ea1fc768961916</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
