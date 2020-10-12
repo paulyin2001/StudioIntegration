@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Test global app via Studio</description>
+        <device_type>browser</device_type>
+        <hint>Test global app via Studio</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 19:31:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eafa57bddb331010c6ea1fc76896194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CMDB custom</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CMDB custom" source="4f8a17bddb331010c6ea1fc7689619ca">4f8a17bddb331010c6ea1fc7689619ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB custom">4f8a17bddb331010c6ea1fc7689619ca</sys_scope>
+        <sys_update_name>sys_app_application_eafa57bddb331010c6ea1fc76896194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 19:31:10</sys_updated_on>
+        <title>CMDB custom</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
